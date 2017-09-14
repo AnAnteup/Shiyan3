@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shiyan3</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="second">这是SecondActivity</string>
+</resources>
